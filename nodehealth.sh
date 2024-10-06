@@ -16,10 +16,18 @@ df -h # to print dish space
 
 vm_stat # To print memory  for MAC OS 
 
-  #echo " Print the number of  CPU"
+free command are used to print memory in ubuntu OS insted of vm_stat.
+
+ 
+
+
+
+
+ #echo " Print the number of  CPU"
 
 sysctl -n hw.ncpu # This command is used to print number of CUP for MAC os.
 
+nproc command is used to print number of CPU in ubuntu OS. 
 
 ps -ef 
 
