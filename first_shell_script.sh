@@ -3,7 +3,7 @@
 
 # creat a directory/Folder
 
-mkdir shell_script_Example
+#mkdir shell_script_Example
 
 
 #create file 
